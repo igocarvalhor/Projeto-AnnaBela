@@ -1,0 +1,43 @@
+body {
+    background: #c2c2c2 url('imagensanna/fundo.png');
+    font: 16px Arial, Helvetica, sans-serife;
+}
+
+#principal {
+     width: 900px; /*Largura*/ 
+
+}
+
+#menu{
+    background: #c5c5b2;
+    padding: 18px; /*Espaçamento interno*/
+    
+
+}
+
+#conteudo{
+    background: #e8e8e9;
+    padding: 10px; /*Espaçamento interno*/
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none; /*Serve para retirar linha abaixo do link*/
+    font-weight: bold;
+    padding: 5px; /*Espaçamento interno*/
+}
+
+.centralizar {
+    text-align: center;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em; /*Utilizar o "em" quando for deixar a font com o tamanho equivalente ao geral*/
+}
+
+.img_campanha{
+    border: 10px solid #c3c3ae;
+}
+
+
